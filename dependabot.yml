@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # మీ ప్రాజెక్ట్ ని బట్టి npm, pip, maven లేదా cargo అని ఇవ్వండి
+    directory: "/"
+    schedule:
+      interval: "daily" # ప్రతిరోజూ స్కాన్ చేస్తుంది
