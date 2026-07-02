@@ -1,0 +1,6 @@
+# ఉదాహరణ రూల్స్:
+# ప్రాజెక్ట్ లోని అన్ని ఫైల్స్ కి @main-team ఓనర్
+*                  @my-org/main-team
+
+# /src/payments/ ఫోల్డర్ లోని మార్పులను కేవలం వీరే అప్రూవ్ చేయాలి
+/src/payments/     @my-org/payment-experts
